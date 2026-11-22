@@ -1,0 +1,9 @@
+fastapi>=0.110
+uvicorn>=0.29
+pydantic>=2
+pymupdf>=1.24
+numpy
+scikit-learn
+scipy
+snowballstemmer
+anthropic>=0.40
