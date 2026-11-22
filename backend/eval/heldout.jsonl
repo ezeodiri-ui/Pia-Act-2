@@ -1,0 +1,20 @@
+{"q": "What are the functions of the Minister of Petroleum?", "expect": ["s3"], "type": "governance"}
+{"q": "How is the Chief Executive of the Authority appointed?", "expect": ["s41"], "type": "governance"}
+{"q": "What duties does the holder of a gas processing licence have?", "expect": ["s130"], "type": "regulatory"}
+{"q": "Can a petroleum licence or lease be assigned or transferred to another company?", "expect": ["s95", "s117"], "type": "regulatory"}
+{"q": "How does the Act treat confidentiality of petroleum data?", "expect": ["s83"], "type": "regulatory"}
+{"q": "What fees, rents and bonuses must licence holders pay?", "expect": ["s100", "sch7-p1", "sch7-p2", "sch7-p3"], "type": "fiscal"}
+{"q": "What accounts and returns must a company file for hydrocarbon tax?", "expect": ["s277", "s280"], "type": "fiscal"}
+{"q": "What penalty applies for late payment of hydrocarbon tax?", "expect": ["s292", "s291"], "type": "fiscal"}
+{"q": "What happens to existing oil mining leases under the Act?", "expect": ["s92", "s93"], "type": "regulatory"}
+{"q": "What rights of way do licensees have for upstream operations?", "expect": ["s90", "s91"], "type": "regulatory"}
+{"q": "What is an incorporated joint venture company and how is it created?", "expect": ["s65", "sch2-"], "type": "governance"}
+{"q": "What protections exist for customers of gas suppliers?", "expect": ["s164", "s165"], "type": "regulatory"}
+{"q": "Who manages the money in the host communities trust fund?", "expect": ["s242", "s243", "s246", "s247"], "type": "fiscal"}
+{"q": "How is the Board of NNPC Limited composed?", "expect": ["s59"], "type": "governance"}
+{"q": "Who audits NNPC Limited each year?", "expect": ["s62"], "type": "governance"}
+{"q": "How is acreage managed through a national grid system?", "expect": ["s69"], "type": "regulatory"}
+{"q": "How can a licensee surrender a licence?", "expect": ["s89", "s119"], "type": "regulatory"}
+{"q": "Can royalties be paid in Naira?", "expect": ["sch7-p9"], "type": "fiscal"}
+{"q": "What happens if a settlor fails to incorporate a host communities trust?", "expect": ["s238"], "type": "fiscal"}
+{"q": "Is the host communities trust exempt from income tax?", "expect": ["s256"], "type": "fiscal"}

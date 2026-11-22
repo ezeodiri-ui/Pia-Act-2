@@ -1,0 +1,49 @@
+{"q": "What percentage of operating expenditure must settlors contribute to the host communities development trust?", "expect": ["s240"], "type": "fiscal"}
+{"q": "What is the Frontier Exploration Fund and how is it funded?", "expect": ["s9", "s64"], "type": "fiscal"}
+{"q": "What is the rate of hydrocarbon tax?", "expect": ["s261", "s267"], "type": "fiscal"}
+{"q": "Which fund must lessees set up for decommissioning and abandonment?", "expect": ["s233", "s232"], "type": "fiscal"}
+{"q": "How are royalties calculated for deep offshore fields?", "expect": ["sch7-p10"], "type": "fiscal"}
+{"q": "What is royalty by price and who receives it?", "expect": ["sch7-p11"], "type": "fiscal"}
+{"q": "What are the penalties for gas flaring?", "expect": ["s104", "s105"], "type": "regulatory"}
+{"q": "What conditions apply to the award of marginal fields?", "expect": ["s94"], "type": "regulatory"}
+{"q": "Is there a fiscal stabilisation guarantee in the Act?", "expect": ["s305"], "type": "fiscal"}
+{"q": "Can the Minister order a cutback in crude oil production?", "expect": ["s3"], "type": "governance"}
+{"q": "How can a company appeal a hydrocarbon tax assessment?", "expect": ["s288", "s289"], "type": "fiscal"}
+{"q": "How is the domestic crude oil supply obligation determined?", "expect": ["s109"], "type": "regulatory"}
+{"q": "What is the definition of host community?", "expect": ["s318-d86"], "type": "definition"}
+{"q": "What does the Act say about dividends paid by NNPC Limited?", "expect": ["s53", "sch2-p7", "sch2-p8"], "type": "governance"}
+{"q": "Who are the members of the Governing Board of the Commission?", "expect": ["s11"], "type": "governance"}
+{"q": "What is the role of the Special Investigation Unit?", "expect": ["s27", "s50"], "type": "governance"}
+{"q": "What national strategic stocks of petroleum products must be maintained?", "expect": ["s181"], "type": "regulatory"}
+{"q": "What is the cost price ratio limit?", "expect": ["sch6-p2"], "type": "fiscal"}
+{"q": "What capital allowances are available to petroleum companies?", "expect": ["sch5-"], "type": "fiscal"}
+{"q": "How is the domestic base price of natural gas determined for strategic sectors?", "expect": ["s167", "sch3-"], "type": "regulatory"}
+{"q": "What penalty applies if royalties are not paid on time?", "expect": ["sch7-p12", "sch7-p13"], "type": "fiscal"}
+{"q": "What are the grounds for revoking a petroleum licence or lease?", "expect": ["s96", "s97"], "type": "regulatory"}
+{"q": "How is the Midstream and Downstream Gas Infrastructure Fund financed?", "expect": ["s52"], "type": "fiscal"}
+{"q": "What are the objectives of the Nigerian Midstream and Downstream Petroleum Regulatory Authority?", "expect": ["s31"], "type": "governance"}
+{"q": "What is required to obtain a crude oil refining licence?", "expect": ["s183"], "type": "regulatory"}
+{"q": "Explain section 306", "expect": ["s306", "sch7-"], "type": "citation"}
+{"q": "How were NNPC's assets and liabilities transferred to NNPC Limited?", "expect": ["s54"], "type": "governance"}
+{"q": "What financial contribution is required for environmental remediation?", "expect": ["s103", "s102"], "type": "regulatory"}
+{"q": "How long does a petroleum prospecting licence last?", "expect": ["s77"], "type": "regulatory"}
+{"q": "How are licences awarded through the bidding process?", "expect": ["s73", "s74"], "type": "regulatory"}
+{"q": "Within what period must the host communities development trust be incorporated?", "expect": ["s236"], "type": "fiscal"}
+{"q": "What happens if fees, rents or royalties remain unpaid?", "expect": ["sch7-p13", "sch7-p12", "sch7-p4"], "type": "fiscal"}
+{"q": "On what grounds can a midstream or downstream licence be revoked?", "expect": ["s120"], "type": "regulatory"}
+{"q": "What are the offences for false statements in tax returns?", "expect": ["s299", "s298", "s297"], "type": "fiscal"}
+{"q": "Which deductions are allowed in computing hydrocarbon tax?", "expect": ["s263"], "type": "fiscal"}
+{"q": "Which expenses are not deductible for hydrocarbon tax?", "expect": ["s264"], "type": "fiscal"}
+{"q": "How is the tariff methodology set for midstream and downstream operations?", "expect": ["s123", "s122"], "type": "regulatory"}
+{"q": "How are access disputes for gas networks resolved?", "expect": ["s163"], "type": "regulatory"}
+{"q": "What does the Act say about unitisation of petroleum fields?", "expect": ["s80"], "type": "regulatory"}
+{"q": "What royalty applies to natural gas produced and used within Nigeria?", "expect": ["sch7-p10"], "type": "fiscal"}
+{"q": "What are the Minister's pre-emption rights in a national emergency?", "expect": ["s3", "sch1-"], "type": "governance"}
+{"q": "How is the Commission funded?", "expect": ["s24", "s22"], "type": "governance"}
+{"q": "How much does NNPC Ltd keep as management fee from profit petroleum?", "expect": ["s64", "s53", "sch2-"], "type": "lay"}
+{"q": "What does NUPRC do in frontier basins?", "expect": ["s9"], "type": "lay"}
+{"q": "Do refineries like Dangote have to be supplied with local crude?", "expect": ["s109", "s183"], "type": "lay"}
+{"q": "What happens to royalty from high oil prices?", "expect": ["sch7-p11"], "type": "lay"}
+{"q": "Which law replaced the petroleum profit tax regime?", "expect": ["s310", "s311", "s261"], "type": "lay"}
+{"q": "What does paragraph 10 of the Seventh Schedule provide?", "expect": ["sch7-p10"], "type": "citation"}
+{"q": "Who owns petroleum resources in Nigeria?", "expect": ["s1"], "type": "governance"}

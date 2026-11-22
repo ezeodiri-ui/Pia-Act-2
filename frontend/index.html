@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PIA 2021 · Legislative Research Assistant</title>
+<link rel="stylesheet" href="/static/app.css">
+</head>
+<body>
+<header class="top">
+  <div class="brand">
+    <div class="crest" aria-hidden="true">PIA</div>
+    <div>
+      <h1>Petroleum Industry Act, 2021 <span>Legislative Research Assistant</span></h1>
+      <p>National Assembly of Nigeria · House of Representatives · Committee on Finance</p>
+    </div>
+  </div>
+  <div class="top-right">
+    <span id="pill-llm" class="pill">…</span>
+    <span id="pill-pipe" class="pill ghost">…</span>
+    <label class="switch" title="Show retrieval scores and query rewrites"><input type="checkbox" id="inspector"> Inspector</label>
+    <button id="btn-new" class="btn ghost">New conversation</button>
+    <button id="btn-print" class="btn ghost">Print / PDF</button>
+  </div>
+</header>
+
+<div class="layout">
+  <aside class="side">
+    <div class="tabs">
+      <button class="tab active" data-tab="ask">Ask</button>
+      <button class="tab" data-tab="browse">Browse the Act</button>
+    </div>
+    <div id="tab-ask" class="panel">
+      <p class="hint">Select a question or type your own. Answers cite the Act by section, subsection and Schedule paragraph.</p>
+      <div id="samples"></div>
+    </div>
+    <div id="tab-browse" class="panel hidden">
+      <input id="browse-filter" class="filter" placeholder="Filter by section number or title…" autocomplete="off">
+      <div id="tree"></div>
+    </div>
+  </aside>
+
+  <main class="main">
+    <div id="chat" class="chat" aria-live="polite">
+      <div class="welcome" id="welcome">
+        <h2>Ask the Act.</h2>
+        <p>Every answer is grounded in the gazetted text of the Petroleum Industry Act, 2021 (Act No. 6 of 2021). Each statement is cited, each quotation is checked word-for-word against the Act, and each cited provision opens in full beside the answer.</p>
+        <div class="facts" id="facts"></div>
+      </div>
+    </div>
+    <form id="composer" class="composer" autocomplete="off">
+      <textarea id="q" rows="1" maxlength="1500" placeholder="e.g. What royalty applies to deep offshore production? · Explain section 104 · Define “settlor”"></textarea>
+      <button id="send" type="submit" class="btn primary">Ask</button>
+    </form>
+    <p class="disclaimer">Legal research support grounded in the Act as gazetted on 27 August 2021 — not legal advice. Subsequent amendments, regulations and judicial decisions are outside the indexed text.</p>
+  </main>
+
+  <aside id="drawer" class="drawer hidden" aria-label="Provision viewer">
+    <div class="drawer-head">
+      <div id="drawer-title" class="drawer-title"></div>
+      <button id="drawer-close" class="btn ghost small" aria-label="Close">✕</button>
+    </div>
+    <div id="drawer-body" class="drawer-body"></div>
+  </aside>
+</div>
+<script src="/static/app.js"></script>
+</body>
+</html>
